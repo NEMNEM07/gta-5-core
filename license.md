@@ -246,4 +246,4 @@ it impossible to tell what is causing a problem if something breaks.
 
 ---
 
-*gta-5-core · Updated 2026-11-06 · Shared under the MIT License*
+*gta-5-core · Updated 2026-11-07 · Shared under the MIT License*
